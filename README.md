@@ -1,3 +1,3 @@
-#Git Advanced
+# Git Advanced
 
-this is a git advanced file so far.
+Hello programmers, I am learning Git & Github. This is really awesome.
