@@ -1,1 +1,1 @@
-console.log("I am learning github advanced knowledge updated");
+console.log("I am learning githubs advanced knowledge updated");
